@@ -1,7 +1,7 @@
 ### Hi 😄
 #### Now I study about front-end , 
-#### my major is Information Industry Engineering System 
-#### and minor is Computer Engineering
+#### My major is Information Industry Engineering System ( = industrial engineering)
+#### And minor is Computer Engineering
 
 ___
 
