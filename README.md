@@ -3,9 +3,8 @@
 - 🖥 Information Industry Engineering System (major), Computer Engineering (minor)
 
 ### Interest
-- Smart Farm 🌿
-- Health care 🏋️‍♀️
-- OTT 📺
+- Health care 🏋️‍♀️ now learn to swim :)
+- like to watch OTT 📺 
 ___
 
 ### My Stack 📚
