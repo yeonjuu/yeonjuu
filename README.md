@@ -1,6 +1,7 @@
 ### Hi 😄
-- 🌱 I'm studying about front-end
+- 🌱 **I'm studying about front-end**
 - 🖥 Information Industry Engineering System (major), Computer Engineering (minor)
+
 
 ### Interest
 - Health care 🏋️‍♀️ now learn to swim :)
