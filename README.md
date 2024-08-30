@@ -2,10 +2,6 @@
 - 🌱 **I'm studying about front-end**
 - 🖥 Information Industry Engineering System (major), Computer Engineering (minor)
 
-
-### Interest
-- Health care 🏋️‍♀️ now learn to swim :)
-- like to watch OTT 📺 
 ___
 
 ### My Stack 📚
